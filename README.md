@@ -1,4 +1,4 @@
-Full Stack open 2021 - Part3 - Phonebook frontend
+## Full Stack open 2021 - Part3 - Phonebook frontend
 
 This is the code for the frontent on exercises for part 3 of the course Full Stack Open 2021.
 
