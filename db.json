@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Magnus",
+      "number": "11111111",
+      "id": 10
+    },
+    {
+      "name": "Berit Solbakken",
+      "number": "11111111111",
+      "id": 11
+    },
+    {
+      "name": "Henrik",
+      "number": "6567567657",
+      "id": 12
+    }
+  ]
+}
